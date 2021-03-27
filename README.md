@@ -13,24 +13,24 @@ Mint 0.5l 20kr
 
 
 ## Exercise 1
-# a)
+a)
 Opret en tabel som hedder 'milkshakes'
 
-# b)
+b)
 Indfør milkshakemenuen i tabellen 'milkshakes'
   
   
 ## Exercise 2
-# a)
+a)
 Opret en metode til at se alle milkshakes i størrelsen 0.5l
 
-# b)
+b)
 Opret en metode til at indføre en ny milkshake
 
-# c)
+c)
 Opret en metode til at slette en milkshake
 
-# d)
+d)
 Opret en metode til at ændre i prisen på en milkshake
 
 ## Exercise 3
