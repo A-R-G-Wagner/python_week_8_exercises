@@ -2,14 +2,14 @@
 
 Denne liste af milkshakes skal bruges i opgaverne herunder.
 
-Milkshakemenuen:
-Chokolade 0.5l 25kr
-Chokolade 0.75l 30kr
-Vanilje 0.5l 25kr
-Vanilje 0.75l 30kr
-Banan 0.5l 30kr
-Ananas 0.5l 30kr
-Mint 0.5l 20kr
+Milkshakemenuen:<br><br>
+Chokolade 0.5l 25kr<br>
+Chokolade 0.75l 30kr<br>
+Vanilje 0.5l 25kr<br>
+Vanilje 0.75l 30kr<br>
+Banan 0.5l 30kr<br>
+Ananas 0.5l 30kr<br>
+Mint 0.5l 20kr<br>
 
 
 ## Exercise 1
